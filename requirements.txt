@@ -1,0 +1,2 @@
+flaskwebgui==0.2.3
+Flask==2.0.0
